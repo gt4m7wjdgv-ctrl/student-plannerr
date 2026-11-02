@@ -1,0 +1,83 @@
+# 04 - Project Charter
+
+## 1. Project Title
+
+Student Planner and Management System
+
+## 2. Project Purpose
+
+Develop a simple system that helps students organize class schedules, study plans, assignments, projects, and exam dates.
+
+## 3. Project Objectives
+
+- Provide a weekly class timetable.
+- Allow students to create study plans.
+- Store assignments and projects with due dates.
+- Record exam dates.
+- Show task status as completed or pending.
+- Display upcoming academic activities.
+
+## 4. Project Scope
+
+### In Scope
+
+- Adding, editing, and deleting class schedule entries.
+- Creating and managing study sessions.
+- Recording assignments and projects.
+- Recording exam dates.
+- Tracking completed and pending tasks.
+- Viewing upcoming activities.
+
+### Out of Scope
+
+- Online payment.
+- Communication with university databases.
+- Automatic synchronization with university systems.
+- Advanced AI study recommendations.
+- Multi-user social features.
+
+## 5. Main Deliverables
+
+1. Project README file.
+2. Client Request document.
+3. System Request document.
+4. Feasibility Analysis document.
+5. Project Charter document.
+6. A basic working version of the Student Planner system in the development phase.
+
+## 6. Main Stakeholders
+
+- Primary user: Student.
+- Project developer: Student/development team.
+- Course instructor: Reviews the project and its documentation.
+
+## 7. Estimated Schedule
+
+| Phase | Main Activities | Estimated Duration |
+|---|---|---|
+| Planning | Define needs and prepare planning documents | 1 week |
+| Analysis and Design | Identify requirements and design screens/database | 1 week |
+| Development | Implement core features | 3 weeks |
+| Testing | Test features and correct errors | 1 week |
+| Final Review | Prepare final project and documentation | 1 week |
+
+## 8. Main Risks
+
+- Limited time for development.
+- Errors in entering or saving information.
+- Changes to requirements during development.
+- Loss of stored data.
+
+## 9. Success Criteria
+
+The project will be considered successful if students can:
+
+- Enter and view their class timetable.
+- Create study plans.
+- Record assignments and exam dates.
+- Identify completed and pending tasks.
+- Use the main features without difficulty.
+
+## 10. Approval
+
+This charter defines the initial plan and scope of the Student Planner and Management System. Any major change to the scope should be reviewed before implementation.
